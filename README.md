@@ -1,0 +1,2 @@
+# ChartInfo
+ShowTheInfo From Devices
